@@ -15,25 +15,26 @@ Search engines
 
 Videos & Music
 
-4. https://invidio.us : Alternative frontend for watching youtube videos [depreceated but lists the active instances]
-5. https://tube.cadence.moe : An alternative front-end for YouTube.
+5. https://invidio.us : Alternative frontend for watching youtube videos [depreceated but lists the active instances]
+6. https://tube.cadence.moe : An alternative front-end for YouTube.
 
 
 Social Media
 
-5. https://old.reddit.com : Lightweight old version of reddit website, needs only a few js to work
-6. https://teddit.net : front-end for reddit
-7. Nitter: Front end for twitter that you browse without an account. [Check this link for public instances: https://github.com/zedeus/nitter/wiki/Instances]
-8. https://news.ycombinator.com : Hacker News
-9. Yotter allows you to follow and gather all the content from your favorite Twitter and YouTube accounts. [https://github.com/ytorg/Yotter#public-instances]
+7. https://old.reddit.com : Lightweight old version of reddit website, needs only a few js to work
+8. https://teddit.net : front-end for reddit
+9. Nitter: Front end for twitter that you browse without an account. [Check this link for public instances: https://github.com/zedeus/nitter/wiki/Instances]
+10. https://news.ycombinator.com : Hacker News
+11. Yotter allows you to follow and gather all the content from your favorite Twitter and YouTube accounts. [https://github.com/ytorg/Yotter#public-instances]
+12. https://app.element.io : Matrix client
 
 Utilities
 
-8. https://bin.privacytools.io : A simple Pastebin
-9. https://protonmail.com : Probably the securest email client till date
-10. https://mail.cock.li : A lightweight email
-11. Etherpad :a highly customizable open source online editor providing collaborative editing in really real-time. [There are thousands of instances, search one xD]
-12. https://wallhaven.cc : Get some wallpapers.
+13. https://bin.privacytools.io : A simple Pastebin
+14. https://protonmail.com : Probably the securest email client till date
+15. https://mail.cock.li : A lightweight email
+16. Etherpad :a highly customizable open source online editor providing collaborative editing in really real-time. [There are thousands of instances, search one xD]
+17. https://wallhaven.cc : Get some wallpapers.
 
 
 # TODO
